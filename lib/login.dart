@@ -33,7 +33,7 @@ class _MyloginState extends State<Mylogin> {
               ),
               TextField(
                 decoration: InputDecoration(
-                  hintText: 'Emaile',
+                  hintText: 'Email',
                   prefixIcon: const Icon(Icons.email),
                   enabledBorder: OutlineInputBorder(
                       borderRadius: BorderRadius.circular(20),
