@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:quapp/GPA.dart';
-import 'package:quapp/signup.dart';
 import 'package:quapp/forgetpass.dart';
 
 class Services extends StatefulWidget {
